@@ -23,7 +23,7 @@
 </p>
 
 ## Description
-This is a basic app which converts your form data to a pdf which you cna download. This project is built with javscript using nodejs for backend and ejs templating engine as a front end technology. Please feel free to use it.
+This is a basic app which converts your form data to a pdf which you can download. This project is built with javscript using nodejs for backend and ejs templating engine as a front end technology. Please feel free to use it.
 
 ## Usage
 > If you want to use this project on your machine, clone it and then type the below command: 
